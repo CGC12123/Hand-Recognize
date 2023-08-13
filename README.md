@@ -1,0 +1,13 @@
+# Hand-Recognize
+> 使用手势识别实现部分功能
+## 文件构成
+- hand_recognize_class.py
+  > 手势识别类，由HandDetector类修改而来
+- Basic_hand_recognition.py
+  > 识别手部并进行标识
+- Gesture_change_size.py
+  > 手势修改图片尺寸
+- Gesture_virtual_drag_and_drop.py
+  > 手势虚拟拖放
+- virtual_keyboard.
+  > 手势控制虚拟键盘
